@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Andrew! 👋
 
+I'm a front-end web developer with a passion for virtual reality, data science, and UI/UX design.
 <!--
 **FrostyDog94/FrostyDog94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
